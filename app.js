@@ -4,6 +4,8 @@ const msg = getNotes()
 
 console.log(msg)
 
+console.log('Hello world')
+
 
 
 
